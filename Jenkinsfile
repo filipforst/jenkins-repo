@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "Building.."
+                echo "Building.. 2222"
                 sh '''
                 echo "doing build stuff.."
                 '''
